@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Buddy ＆ Wilderness",
+  "base_artist": "にじさんじ",
+  "createdAt": "2026-02-28T08:18:02.387683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Buddy Go",
+      "artist": "The Stranglers",
+      "has_synced": true,
+      "path": "select/01_Go_Buddy_Go_The_Stranglers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Buddy",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/02_Buddy_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BUDDY LOVE",
+      "artist": "Matt Bianco",
+      "has_synced": false,
+      "path": "select/03_BUDDY_LOVE_Matt_Bianco.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hello Buddy",
+      "artist": "The Tremeloes",
+      "has_synced": false,
+      "path": "select/04_Hello_Buddy_The_Tremeloes.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Pity the Fool (with Buddy Guy)",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/05_I_Pity_the_Fool_(with_Buddy_Guy)_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "My Name Is Buddy",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/06_My_Name_Is_Buddy_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "PlayStation (feat. Buddy)",
+      "artist": "Guapdad 4000 feat. !llmind & Buddy",
+      "has_synced": true,
+      "path": "select/07_PlayStation_(feat._Buddy)_Guapdad_4000_feat._!llmind_&_Buddy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PlayStation (feat. Buddy)",
+      "artist": "Guapdad 4000",
+      "has_synced": true,
+      "path": "select/08_PlayStation_(feat._Buddy)_Guapdad_4000.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go Buddy Go (demo 1974)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/09_Go_Buddy_Go_(demo_1974)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go Buddy Go (Live)",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/10_Go_Buddy_Go_(Live)_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Golly! Golly! Go Buddy!",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/11_Golly!_Golly!_Go_Buddy!_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What's the Time (Hey Buddy)",
+      "artist": "Bow Wow Wow",
+      "has_synced": false,
+      "path": "select/12_What's_the_Time_(Hey_Buddy)_Bow_Wow_Wow.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Buddy Bolden - 2004 Digital Remaster",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/13_Hey_Buddy_Bolden_-_2004_Digital_Remaster_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hey Buddy Bolden (2004 Remaster)",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/14_Hey_Buddy_Bolden_(2004_Remaster)_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "My Buddy (Remastered)",
+      "artist": "Chet Baker",
+      "has_synced": false,
+      "path": "select/15_My_Buddy_(Remastered)_Chet_Baker.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Buddy & Wilderness",
+      "artist": "にじさんじ",
+      "has_synced": false,
+      "path": "select/pl_01_Buddy_&_Wilderness_にじさんじ.txt"
+    }
+  ]
+}
